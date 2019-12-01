@@ -23,9 +23,11 @@ My favorite one is what another group of researchers from Carnegie Mellon Univer
  
 ### The Timeline
 
+#### December 2019:
+
 - UI/UX Design: As I mentioned before the app can look very similar to Google Translate App. It can have three screens to request for simplification, history, and settings. I can formalize the design and user stories in 3 days.
  
-- The App: The app will be written in flutter to be able to use on Android and iOS. Everything here is very simple and straightforward and it can be done in 3 weeks.
+#### January 2020:
  
 - AI: This will be the biggest part of the app. It will take 4 to 8 weeks. I will use TensorFlow based solutions from Google. I can break down this step into two major parts:
  
@@ -37,10 +39,20 @@ My favorite one is what another group of researchers from Carnegie Mellon Univer
   Then I can use Firebase [AutoML Vision Edge](https://firebase.google.com/docs/ml-kit/train-image-labeler) to host this model, and load them at run time with the iOS and Android SDKs. I will also bundle the model with the apps, so it will be immediately available on install. For this step I will consider 3 days, but it can be combined with other steps too.
  
   - Hosting the Models: I will host the TensorFlow Lite model on Firebase, so ML Kit keeps the users up to date with the latest version of the model. I will also bundle the model with the app, so it will be immediately available on install.
- 
-- Releasing the app: Mostly to prepare the store listing, including the app icons,  the screenshots, the descriptions and the rest. It will take 2 days.
- 
-As you can see these steps will roughly take 8 to 12 weeks. As I will use the remaining time to further improve the app or improve the model.
+
+#### February 2020:
+
+- Bootcamp at Google: By this time, I have the design, a mockup, and the model. 
+
+#### March & April 2020:
+
+- The App: The app will be written in flutter to be able to use on Android and iOS. Everything here is very simple and straightforward and it can be done in 3 weeks.
+
+- As you can see these steps will roughly take 8 to 12 weeks. As I will use the remaining time to further improve the app or improve the model.
+
+#### May 2020:
+
+- Releasing the app: Mostly to prepare the store listing, including the app icons,  the screenshots, the descriptions and the rest.
  
 ### Google’s help
  
